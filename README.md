@@ -53,8 +53,3 @@ For running: the code is in executable form in Jupyter Notebook, run all the cel
 2.1 Guided Feature Engineering.ipynb
 2.2 Independent Feature Engineering.ipynb
 ````
-
-## Data
-
-Data is stored in data folder
-
